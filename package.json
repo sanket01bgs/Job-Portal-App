@@ -1,0 +1,27 @@
+{
+  "name": "job-portal",
+  "version": "1.0.0",
+  "description": "Job Portal Project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanket01bgs/Job-Portal-App.git"
+  },
+  "author": "Sanket kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanket01bgs/Job-Portal-App/issues"
+  },
+  "homepage": "https://github.com/sanket01bgs/Job-Portal-App#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
