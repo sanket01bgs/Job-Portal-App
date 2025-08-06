@@ -19,9 +19,15 @@
   },
   "homepage": "https://github.com/sanket01bgs/Job-Portal-App#readme",
   "dependencies": {
+    "bcryptjs": "^3.0.2",
     "colors": "^1.4.0",
+    "cors": "^2.8.5",
     "dotenv": "^17.2.0",
-    "express": "^5.1.0",
-    "nodemon": "^3.1.10"
+    "express": "^4.21.2",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^8.16.4",
+    "morgan": "^1.10.1",
+    "nodemon": "^3.1.10",
+    "validator": "^13.15.15"
   }
 }
