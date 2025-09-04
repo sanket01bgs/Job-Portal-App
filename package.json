@@ -25,11 +25,18 @@
     "dotenv": "^17.2.0",
     "express": "^4.21.2",
     "express-async-errors": "^3.1.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^8.0.1",
+    "helmet": "^8.1.0",
     "jsonwebtoken": "^9.0.2",
     "moment": "^2.30.1",
     "mongoose": "^8.16.4",
     "morgan": "^1.10.1",
     "nodemon": "^3.1.10",
-    "validator": "^13.15.15"
+    "swagger-doc": "^0.3.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1",
+    "validator": "^13.15.15",
+    "xss-clean": "^0.1.4"
   }
 }
